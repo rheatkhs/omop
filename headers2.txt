@@ -1,0 +1,13 @@
+HTTP/1.1 302 Found
+Date: Fri, 10 Jul 2026 14:53:59 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Cache-Control: private, must-revalidate
+pragma: no-cache
+expires: -1
+Set-Cookie: XSRF-TOKEN=eyJpdiI6Ii83ck5UeHN0R2Y0NWRsdUF3NlgxNmc9PSIsInZhbHVlIjoiNVlDenZmMG5uUlZwZTJ6eFBCL0ZnaHNHY01tK05GRHdDTm9uSldVaVdINXltV3dEY2wzSTEzdTVRaVJZcVZvdXE2WHlZUFY3NlhGVjBGalY0NU1SS3hTZWZzRUtmUk1jS3Zib3hxbFNYYXR0UU9tTEt2SUtoU0ZpaFo0ejh1YWUiLCJtYWMiOiIxNWVjNGRmYjk4ZGJhNTczMTJhMzllZDE5ZjcwOTQ1YWEzOTNkOTEwZTBhMWZkOGJmYzBmM2Y4ODkwM2E3YjdkIiwidGFnIjoiIn0%3D; expires=Fri, 10 Jul 2026 16:53:59 GMT; Max-Age=7200; path=/; secure; samesite=lax
+Set-Cookie: skema_jateng_session=eyJpdiI6Ik9HcUY4OFpibU02aGQrQzYzcFNCOGc9PSIsInZhbHVlIjoiZTk1SUlRWDlmbUJsNk40cThXNHlPRHdyYlJnL3RhM2RJTjdYckRHN0RheW1zbTRnS2MycVQ3TGJoQ3RwdnlHS3BWd1NxaTV3aktKeHdoTFVUMUx4QzY1L0ZYVlFoYmhaSVBzbTVHQUNPM3NVeVJYNjBGZ0xaRmJKVmI1Rm1tWk0iLCJtYWMiOiJkNjI2Yjc4MTNjZGZlOGYxYTA4MDk3Mzc3NDZjNzJlMDkyNDExY2IwODBlMDEyYmU5ZDExNzg3ZDFhNzBmMTg3IiwidGFnIjoiIn0%3D; expires=Fri, 10 Jul 2026 16:53:59 GMT; Max-Age=7200; path=/; httponly; samesite=lax
+Location: https://skema.jatengprov.go.id/register
+Set-Cookie: TS013e5f2e=016d02df041410df194f75bde861a71802171823759ec4897f1e8f73d86fe066eec95b38f1d1f34ab4db37649018b753972171f17f705fcc4ba3c6daebfc049085e366280a0d419806c9eefd131b7a33acc7a5e1a2; Path=/; Domain=.skema.jatengprov.go.id; 
+Transfer-Encoding: chunked
+

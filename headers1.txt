@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Fri, 10 Jul 2026 14:53:58 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Cache-Control: private, must-revalidate
+pragma: no-cache
+expires: -1
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IjZMSVdxMlczR3EwaHBteHI5cnVTYmc9PSIsInZhbHVlIjoiakVweHIrd0ZWell2bkFVSGVqUGlTcU01UnZqNUhQVEM3RkhIUWVYTWlrTzUvcisyclh1OWxrR0FtcWlrOGIyK05xbGVQQTNNQ2x3UTJNZGt0bDhlOERTWjg0ekV2b1QxdUxxaXN0L3pCSDNJYUZaRUd3anFjRmp1eURzL0k0QUsiLCJtYWMiOiJmYTRlYzQzZGY0NmI4Zjk4MzM0Yjk5MDkyYjU3MGQzYzc0NmIxZGI0ZjlhMzQ4ZWUyMjg2Y2UwNGEyMWUyY2FkIiwidGFnIjoiIn0%3D; expires=Fri, 10 Jul 2026 16:53:58 GMT; Max-Age=7200; path=/; secure; samesite=lax
+Set-Cookie: skema_jateng_session=eyJpdiI6IlIwWlFEMjdsNkoyUWNWOGZpY2xqSFE9PSIsInZhbHVlIjoiWTU2K1lNazIyK0ppT3I3eC8vQmZFNHRkNGdwZVVqblFtell0OXJRUVR1RS8rUExiM0RLVG9sd2xuMEpkRTZLdGJaMGdwMEovVVVvZlhtb0FGWHpBakZQUTJYMWFzSkhlbk0ySUNLQXdWSG1MalZ0TVpDR0hLQmNzRXJveC8yTnAiLCJtYWMiOiJiZjMwMWYzODc3ODczNjU4Y2IyZTQzNGRiOTQ1ODIxYjQ5NDMwNTk0NmQwMGExNjQ3NGFiNTdjMTJlOWUwOWQwIiwidGFnIjoiIn0%3D; expires=Fri, 10 Jul 2026 16:53:58 GMT; Max-Age=7200; path=/; httponly; samesite=lax
+Set-Cookie: TS013e5f2e=016d02df04c8c27fd4c93393a2a7d2074e4dfe5bbe9ec4897f1e8f73d86fe066eec95b38f1d1f34ab4db37649018b753972171f17fde998ee5615091d1830e3c95927bd6a8b330d51ad993939b3c6ce17ab9e6e9db; Path=/; Domain=.skema.jatengprov.go.id; 
+Transfer-Encoding: chunked
+
